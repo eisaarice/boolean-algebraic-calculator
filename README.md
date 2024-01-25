@@ -8,6 +8,6 @@ Developed in Visual Studio, you can run this program yourself after a simple clo
 
 ▪ Right click **main.asm** and select Properties. The **Item Type** should be listed as a **Microsoft Macro Assembler**.
 
-▪ Right click on the project title **Boolean and Algebraic Calculator** (under the solution) and select **Build Dependencies** and then **Build Customizations...**. **masm(-targets. -props)** should be selected.
+▪ Right click on the project title **Boolean and Algebraic Calculator** (under the solution) and select **Build Dependencies** and then **Build Customizations...**. You should find that **masm(-targets. -props)** is selected.
 
 Happy operating!
